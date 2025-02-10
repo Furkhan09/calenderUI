@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Team Meeting",
+    "date": "2025-02-02",
+    "time": "15:00",
+    "duration": 60
+  },
+  {
+    "title": "Client Call",
+    "date": "2025-02-02",
+    "time": "15:30",
+    "duration": 30
+  },
+  {
+    "title": "Project Discussion",
+    "date": "2025-02-03",
+    "time": "10:00",
+    "duration": 45
+  },
+  {
+    "title": "Team Meeting",
+    "date": "2025-02-03",
+    "time": "12:00",
+    "duration": 30
+  },
+  {
+    "title": "Brainstorming",
+    "date": "2025-02-24",
+    "time": "14:00",
+    "duration": 60
+  }
+]
